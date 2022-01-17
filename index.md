@@ -1,3 +1,7 @@
+layout: page
+title: "Christian Battista Giannarelli"
+permalink: /
+
 # Christian Battista Giannarelli
 ## 18 year old web-dev from Italy
 
