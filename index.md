@@ -27,8 +27,8 @@
 * Affinity Publisher.
 
 ## Education
-I.I.S. G. Capellini - N. Sauro, La Spezia, SP, Italy
-"Informatica e Telecomunicazioni, articolazione Informatica"
+I.I.S. G. Capellini - N. Sauro, La Spezia, SP, Italy<br>
+"Informatica e Telecomunicazioni, articolazione Informatica"<br>
 September 2017 - June 2022
 
 ## Get in touch
