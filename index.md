@@ -15,7 +15,7 @@
 * [Giannarelli Miele](https://www.giannarellimiele.it).
 
 ### All things open-source
-[My GitHub profile](https://github.com/cibigi);
+[My GitHub profile](https://github.com/cibigi)
 
 ### Legacy stuff
 Coming soon...
