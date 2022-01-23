@@ -14,13 +14,20 @@
 * [Ca' Del Ponte - Fornoli](http://cadelpontefornoli.it);
 * [Giannarelli Miele](https://www.giannarellimiele.it).
 
+### All things open-source
+[My GitHub profile](https://github.com/cibigi);
+
+### Legacy stuff
+Coming soon...
+
 ## Skills
 ### Development
-* HTML and CSS;
-* JavaScript and jQuery;
-* jQuery UI and jQuery Mobile;
-* TypeScript;
-* Basic C++ and Java.
+* ●●●●● HTML and CSS/SASS;
+* ●●●●○ JavaScript and jQuery;
+* ●●●○○ TypeScript;
+* ●●●○○ Python;
+* ●●○○○ C++;
+* ●●○○○ Java.
 
 ### Graphic design
 * Affinity Designer;
