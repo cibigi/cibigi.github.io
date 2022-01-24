@@ -6,8 +6,8 @@
 ### Web-apps
 * [Neutask](https://cibigi.github.io/neutask) neumorphic to-do app;
 * [mioCanvas](https://cibigi.github.io/miocanvas) Material Design photo canvas creator;
-* Mistico styling language;
-* Mistico3 website creation tool;
+* [Mistico](https://cibigi.github.io/mistico) customisation language;
+* Mistico3 website creation tool (soon to be open-sourced);
 * ...
 
 ### Websites
