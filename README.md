@@ -1,8 +1,9 @@
-# Bio
-18-year-old web-dev from Italy.
+# about me
+your gay vegetarian 18-year-old front-end dev from Italy.
 
-# Projects
-## Web-apps
+
+# projects
+## web-apps
 * [Neutask](https://cibigi.github.io/neutask) neumorphic to-do app;
 * [mioCanvas](https://cibigi.github.io/miocanvas) Material Design photo canvas creator;
 * [tell them](https://cibigi.github.io/tell-them) the best way to cope;
@@ -10,18 +11,19 @@
 * Mistico3 website creation tool (soon to be open-sourced);
 * ...
 
-## Websites
+## websites
 * [Ca' Del Ponte - Fornoli](http://cadelpontefornoli.it);
 * [Giannarelli Miele](https://www.giannarellimiele.it).
 
-## All things open-source
+## all things open-source
 [My GitHub profile](https://github.com/cibigi)
 
-## Legacy stuff
-Coming soon...
+## legacy stuff
+coming soon...
 
-# Skills
-## Development
+
+# skills
+## development
 * ●●●●● HTML and CSS/SASS;
 * ●●●●○ JavaScript and jQuery;
 * ●●●○○ TypeScript;
@@ -29,14 +31,16 @@ Coming soon...
 * ●●○○○ C++;
 * ●●○○○ Java.
 
-## Graphic design
+## graphic design
 * Affinity Designer;
 * Affinity Publisher.
 
-# Education
+
+# education
 I.I.S. G. Capellini - N. Sauro, La Spezia, SP, Italy<br>
 "Informatica e Telecomunicazioni, articolazione Informatica"<br>
 September 2017 - June 2022
 
-# Get in touch
+
+# get in touch
 [cbgianna@icloud.com](mailto:cbgianna@icloud.com)
