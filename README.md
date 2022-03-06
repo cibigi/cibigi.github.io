@@ -2,7 +2,7 @@
 18-year-old front-end web-dev from Italy.<br>
 backdrop-filter: blur() enthusiast.
 
-
+<br>
 # projects
 ## web-apps
 * [Neutask](https://cibigi.github.io/neutask) neumorphic to-do app;
@@ -22,7 +22,7 @@ backdrop-filter: blur() enthusiast.
 ## legacy stuff
 coming soon...
 
-
+<br>
 # skills
 ## development
 * ●●●●● HTML and CSS/SASS;
@@ -36,13 +36,13 @@ coming soon...
 * Affinity Designer;
 * Affinity Publisher.
 
-
+<br>
 # education
 I.I.S. G. Capellini - N. Sauro, La Spezia, SP, Italy<br>
 "Informatica e Telecomunicazioni, articolazione Informatica"<br>
 September 2017 - June 2022
 
-
+<br>
 # get in touch
 [cbgianna@icloud.com](mailto:cbgianna@icloud.com)<br>
 [cibigi on Instagram](https://instagram.com/cibigi)<br>
