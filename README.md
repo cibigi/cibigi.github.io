@@ -1,5 +1,5 @@
 # about me
-18-year-old front-end web-dev from Italy.
+18-year-old front-end web-dev from Italy.<br>
 backdrop-filter: blur() enthusiast.
 
 
@@ -7,7 +7,7 @@ backdrop-filter: blur() enthusiast.
 ## web-apps
 * [Neutask](https://cibigi.github.io/neutask) neumorphic to-do app;
 * [mioCanvas](https://cibigi.github.io/miocanvas) Material Design photo canvas creator;
-* [tell them](https://cibigi.github.io/tell-them) the best way to cope;
+* [tell them](https://cibigi.github.io/tell-them) wallpaper creator;
 * [Mistico](https://cibigi.github.io/mistico) customisation language;
 * Mistico3 website creation tool (soon to be open-sourced);
 * ...
@@ -44,6 +44,6 @@ September 2017 - June 2022
 
 
 # get in touch
-[cbgianna@icloud.com](mailto:cbgianna@icloud.com)
-[cibigi on Instagram](https://instagram.com/cibigi)
+[cbgianna@icloud.com](mailto:cbgianna@icloud.com)<br>
+[cibigi on Instagram](https://instagram.com/cibigi)<br>
 [cibigi_ on Twitter](https://twitter.com/cibigi_)
