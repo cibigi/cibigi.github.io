@@ -1,5 +1,6 @@
 # about me
 18-year-old front-end web-dev from Italy.
+backdrop-filter: blur() enthusiast.
 
 
 # projects
@@ -16,7 +17,7 @@
 * [Giannarelli Miele](https://www.giannarellimiele.it).
 
 ## all things open-source
-[My GitHub profile](https://github.com/cibigi)
+[my GitHub profile](https://github.com/cibigi)
 
 ## legacy stuff
 coming soon...
@@ -44,3 +45,5 @@ September 2017 - June 2022
 
 # get in touch
 [cbgianna@icloud.com](mailto:cbgianna@icloud.com)
+[cibigi on Instagram](https://instagram.com/cibigi)
+[cibigi_ on Twitter](https://twitter.com/cibigi_)
