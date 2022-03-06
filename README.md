@@ -1,5 +1,5 @@
 # about me
-your gay vegetarian 18-year-old front-end dev from Italy.
+18-year-old front-end web-dev from Italy.
 
 
 # projects
