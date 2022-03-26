@@ -1,14 +1,14 @@
-# in my defence, i have none
+# Portfolio
 
-## about me () =>
+## About me
 
 18-year-old front-end web-dev from Italy.
 
 <br>
 
-## projects () =>
+## Projects
 
-### web-apps
+### Web-apps
 
 * [Kanbo](https://cibigi.github.io/kanbo) web-based Kanban board;
 * [Neutask](https://cibigi.github.io/neutask) neumorphic to-do app;
@@ -18,24 +18,20 @@
 * Mistico3 website creation tool (soon to be open-sourced);
 * ...
 
-### websites
+### Websites
 
 * [Ca' Del Ponte - Fornoli](http://cadelpontefornoli.it);
 * [Giannarelli Miele](https://www.giannarellimiele.it).
 
-### all things open-source
+### All things open-source
 
-[my GitHub profile](https://github.com/cibigi)
-
-### legacy stuff
-
-coming soon...
+[My GitHub profile](https://github.com/cibigi)
 
 <br>
 
-## skills () =>
+## Skills
 
-### development
+### Development
 
 * ●●●●● HTML and CSS/SASS;
 * ●●●●○ JavaScript and jQuery;
@@ -44,14 +40,15 @@ coming soon...
 * ●●○○○ C++;
 * ●●○○○ Java.
 
-### graphic design
+### Graphic design
 
 * Affinity Designer;
-* Affinity Publisher.
+* Affinity Publisher;
+* Adobe XD.
 
 <br>
 
-## education () =>
+## Education
 
 I.I.S. G. Capellini - N. Sauro, La Spezia, SP, Italy<br>
 "Informatica e Telecomunicazioni, articolazione Informatica"<br>
@@ -59,8 +56,9 @@ September 2017 - June 2022
 
 <br>
 
-## get in touch () =>
+## Get in touch
 
 [cbgianna@icloud.com](mailto:cbgianna@icloud.com)<br>
+[cibigi on Telegram](https://t.me/cibigi)<br>
 [cibigi on Instagram](https://instagram.com/cibigi)<br>
 [cibigi_ on Twitter](https://twitter.com/cibigi_)
