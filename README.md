@@ -55,10 +55,3 @@ I.I.S. G. Capellini - N. Sauro, La Spezia, SP, Italy<br>
 September 2017 - June 2022
 
 <br>
-
-## Get in touch
-
-[cbgianna@icloud.com](mailto:cbgianna@icloud.com)<br>
-[cibigi on Telegram](https://t.me/cibigi)<br>
-[cibigi on Instagram](https://instagram.com/cibigi)<br>
-[cibigi_ on Twitter](https://twitter.com/cibigi_)
